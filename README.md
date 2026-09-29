@@ -1,2 +1,3 @@
-# Diagn-stico-estrat-gico-integral-para-RappiPlus
-Proyecto final del bootcamp de Data analyst en TrpleTen
+# Diagnóstico estratégico integral para RappiPlus
+Proyecto final del bootcamp de Data Analyst en TripleTen
+El objetivo de este análisis fue evaluar si los usuarios con la suscripción a Rappi Plus aumentan el valor generado por el usuario. Para esto se utilizaron 3 bases de datos, las cuales contienen información de las órdenes generadas, un catálogo de productos e información de marketing. Como primer paso, se evaluó la calidad de los datos, generando 3 bases de datos limpias y listas para realizar el cálculo de métricas. Posteriormente con los datos de un experimento A y B realizado se realizó un análisis estadístico para determinar si hay una diferencia significativa en la tasa de conversión del test A y B, 
